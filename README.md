@@ -1,6 +1,6 @@
 <h3 align="left"> ✨ Jaechan Jo ✨ </h3>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <div align="right">
