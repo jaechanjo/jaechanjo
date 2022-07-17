@@ -1,4 +1,4 @@
-<h3 align="center"> ✨ Jaechan Jo ✨ </h3>
+<h3 align="left"> ✨ Jaechan Jo ✨ </h3>
 
 #
 <div align="center">
