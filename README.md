@@ -1,6 +1,6 @@
 <h3 align="left"> ✨ Jaechan Jo ✨ </h3>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm Jaechan!&desc=Hello%20I'm Jaechan!&animation=fadeIn&fontSize=40)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm Jaechan!&desc=Hello%20I'm Jaechan!&animation=fadeIn&fontSize=40)
 
 
 <div align="right">
