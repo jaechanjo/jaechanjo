@@ -1,7 +1,6 @@
 Jaechan Jo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaechanjo&show_icons=true&theme=swift)
-출처: https://eunhee-programming.tistory.com/244?category=1233835 
 
 ### Hi there 👋
 
