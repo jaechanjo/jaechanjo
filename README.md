@@ -1,5 +1,5 @@
 <h3 align="center"> ✨ Jaechan Jo ✨ </h3>
-
+:umbrella:
 #
 <div align="center">
 <h3 align="center"> 🔥 Tech Stack 🔥 </h3>
