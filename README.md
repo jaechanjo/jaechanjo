@@ -2,13 +2,13 @@
 
 #
 <div align="center">
-<h3 align="center"> :heart: Interest :heart: </h3>
+<h4 align="center"> :heart: Interest :heart: </h4>
 <h5 align="center"> :movie_camera: Video Analysis Using Deep Learning </h5>
 <h5 align="center"> :clapper: Short Film Shoot </div>
 
 #
 <div align="center">
-<h3 align="center"> :flags: Career :flags: </h3>
+<h4 align="center"> :flags: Career :flags: </h4>
 <h5 align="center"> :mortar_board: 2022.02 ~  
   
   Multi Media System Lab, Master's Degree in AI Graduate School, Sogang University </h5>
@@ -22,7 +22,7 @@
 
 #
 <div align="center">
-<h3 align="center"> 🔥 Tech Stack 🔥 </h3>
+<h4 align="center"> 🔥 Tech Stack 🔥 </h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 </div>
