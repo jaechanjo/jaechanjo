@@ -1,6 +1,6 @@
-<h3 align="left"> ✨ Jaechan Jo ✨ </h3>
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm Jaechan!&desc=Hello%20I'm Jaechan!&animation=fadeIn&fontSize=40)
+<!-- <h3 align="left"> ✨ Jaechan Jo ✨ </h3>
+ -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20Jaechan!&animation=fadeIn&fontAlign=80&fontAlignY=65&rotate=-20&fontSize=35)
 
 
 <div align="right">
@@ -12,7 +12,7 @@
 
 </div>
 
-#
+
 <div align="center">
 <h4 align="center"> :heart: Interest :heart: </h4>
 <h5 align="center"> :movie_camera: Video Analysis Using Deep Learning </h5>
@@ -23,13 +23,20 @@
 <h4 align="center"> :flags: Career :flags: </h4>
 <h5 align="center"> :mortar_board: 2022.02 ~  
   
-  Multi Media System Lab, Master's Degree in AI Graduate School, Sogang University </h5>
+  <h6 align="center"> Multi Media System Lab, Master's Degree in AI Graduate School, Sogang University </h6> 
+  </h5>
+  
+  
 <h5 align="center"> :four_leaf_clover: 2021.08 ~ 2022.01  
   
-  SSAC 3rd Generation - Big Data Analyst Training Course (Seoul Software Academy Cluster) </h5>
+  <h6 align="center"> SSAC 3rd Generation - Big Data Analyst Training Course (Seoul Software Academy Cluster) </h6>
+  </h5>
+  
+  
 <h5 align="center"> :clapper: 2021.03 ~ 2022.07  
   
-  Seesaw Studio, short film <Blade>, Photography and lighting director</h5>
+  <h6 align="center"> Seesaw Studio, short film <Blade>, Photography and lighting director </h6>
+    </h5>
 </div>
 
 #
