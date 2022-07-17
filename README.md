@@ -54,18 +54,23 @@
 <h4 align="center"> 🔥 Tech Stack 🔥 </h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+ <br/><br/>
+<img src="https://img.shields.io/badge/HTML5-FBBF77?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FADADD?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+ <br/><br/>
+<img src="https://img.shields.io/badge/Notion-A1D9BC?style=flat-square&logo=Notion&logoColor=Black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
 </div>
 
 #
-<div align="left">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaechanjo&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaechanjo&layout=compact&theme=swift)
 
-</div>  
-  
-### Hi there 👋
+</div>
 
 <!--
 **jaechanjo/jaechanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
