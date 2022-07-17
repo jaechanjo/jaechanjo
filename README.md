@@ -3,8 +3,8 @@
 #
 <div align="center">
 <h3 align="center"> :flags: Career :flags: </h3>
-<h4 align="center"> :four_leaf_clover: SSAC 3rd Generation Big Data Analyst Training Course (SEOUL SOFTWARE ACADEMY CLUSTER) </h4>
-<h4 align="center"> :mortar_board: Master's Degree in Artificial Intelligence Graduate School, Sogang University </h4>
+<h5 align="center"> :four_leaf_clover: SSAC 3rd Generation Big Data Analyst Training Course (SEOUL SOFTWARE ACADEMY CLUSTER) </h5>
+<h5 align="center"> :mortar_board: Master's Degree in Artificial Intelligence Graduate School, Sogang University </h5>
 </div>
 
 #
