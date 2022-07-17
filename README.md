@@ -2,13 +2,22 @@
 
 #
 <div align="center">
+<h3 align="center"> :heart: Interest :heart: </h3>
+<h5 align="center"> :movie_camera: Video Analysis Using Deep Learning </h5>
+<h5 align="center"> :clapper: Short Film Shoot </div>
+
+#
+<div align="center">
 <h3 align="center"> :flags: Career :flags: </h3>
 <h5 align="center"> :mortar_board: 2022.02 ~  
   
-  Master's Degree in AI Graduate School, Sogang University </h5>
+  Multi Media System Lab, Master's Degree in AI Graduate School, Sogang University </h5>
 <h5 align="center"> :four_leaf_clover: 2021.08 ~ 2022.01  
   
   SSAC 3rd Generation - Big Data Analyst Training Course (Seoul Software Academy Cluster) </h5>
+<h5 align="center"> :clapper: 2021.03 ~ 2022.07  
+  
+  Seesaw Studio, short film <Blade>, Photography and lighting director</h5>
 </div>
 
 #
