@@ -2,7 +2,7 @@
 <div align="right">
 
 <a href="https://blog.naver.com/jjc123a">
-  <img src="https://img.shields.io/badge/Blog-800080?style=flat-square&logo=Blog&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Blog-800080?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaechanjo%2Fhit-counter&count_bg=%23FFA500&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
