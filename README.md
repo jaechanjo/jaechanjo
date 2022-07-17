@@ -8,7 +8,7 @@
   Master's Degree in AI Graduate School, Sogang University </h5>
 <h5 align="center"> :four_leaf_clover: 2021.08 ~ 2022.01  
   
-  SSAC 3rd Generation - Big Data Analyst Training Course (SEOUL SOFTWARE ACADEMY CLUSTER) </h5>
+  SSAC 3rd Generation - Big Data Analyst Training Course (Seoul Software Academy Cluster) </h5>
 </div>
 
 #
