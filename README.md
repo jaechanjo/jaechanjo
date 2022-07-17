@@ -6,9 +6,9 @@
 <h5 align="center"> :mortar_board: 2022.02 ~  
   
   Master's Degree in Artificial Intelligence Graduate School, Sogang University </h5>
-<h5 align="center"> :four_leaf_clover: 2021.08 ~  
+<h5 align="center"> :four_leaf_clover: 2021.08 ~ 2022.01  
   
-  2022.01 SSAC 3rd Generation Big Data Analyst Training Course (SEOUL SOFTWARE ACADEMY CLUSTER) </h5>
+  SSAC 3rd Generation Big Data Analyst Training Course (SEOUL SOFTWARE ACADEMY CLUSTER) </h5>
 </div>
 
 #
