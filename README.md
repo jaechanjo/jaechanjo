@@ -17,20 +17,20 @@
 
 
 <div align="center">
-<h4 align="center"> :astonished: Who I Am :astonished: </h4>
+<h4 align="center"> Who I Am :astonished: </h4>
 <h5 align="center"> Hi There! I'm a Digital Creator. </h5>
 <h5 align="center"> AI, Movie, Writing are means of expressing myself </div>
 <h5 align="center"> I am currently studying for a master's degree at Sogang AI Graduate School. </div>
 
 #
 <div align="center">
-<h4 align="center"> :heart: Interest :heart: </h4>
+<h4 align="center"> Interest :heart: </h4>
 <h5 align="center"> :movie_camera: Video Analysis using deep learning </h5>
 <h5 align="center"> :clapper: Short Film shoot </div>
 
 #
 <div align="center">
-<h4 align="center"> :flags: Career :flags: </h4>
+<h4 align="center"> Career :flags: </h4>
 <h5 align="center"> :mortar_board: 2022.02 ~  
   
   <h6 align="center"> Multi Media System Lab, Master's Degree in AI Graduate School, Sogang University </h6> 
